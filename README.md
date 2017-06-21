@@ -1,4 +1,4 @@
-| #  EEC 116 Fall 2016 Ge Tian & Nichola Jens
+| #  EEC 116 Fall 2016 Nicholas Jens & G Tian
 irsim116 core.sim -tbfunctional.cmd
 irsim116 core.sim -tbspeed.cmd
 
