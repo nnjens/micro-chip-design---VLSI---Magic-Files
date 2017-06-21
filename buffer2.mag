@@ -1,0 +1,118 @@
+magic
+tech scmos
+timestamp 1480552228
+<< nwell >>
+rect 174 87 224 112
+rect 176 81 224 87
+rect 176 0 224 32
+<< pwell >>
+rect 176 72 224 81
+rect 174 60 224 72
+rect 176 32 224 60
+<< ntransistor >>
+rect 179 66 181 72
+rect 187 66 189 72
+rect 195 66 197 72
+rect 203 66 205 72
+rect 211 66 213 72
+<< ptransistor >>
+rect 179 87 181 100
+rect 187 87 189 100
+rect 195 87 197 100
+rect 203 87 205 100
+rect 211 87 213 100
+<< ndiffusion >>
+rect 178 66 179 72
+rect 181 66 182 72
+rect 186 66 187 72
+rect 189 66 190 72
+rect 194 66 195 72
+rect 197 66 198 72
+rect 202 66 203 72
+rect 205 66 206 72
+rect 210 66 211 72
+rect 213 66 214 72
+<< pdiffusion >>
+rect 178 87 179 100
+rect 181 87 182 100
+rect 186 87 187 100
+rect 189 87 190 100
+rect 194 87 195 100
+rect 197 87 198 100
+rect 202 87 203 100
+rect 205 87 206 100
+rect 210 87 211 100
+rect 213 87 214 100
+<< ndcontact >>
+rect 174 66 178 72
+rect 182 66 186 72
+rect 190 66 194 72
+rect 198 66 202 72
+rect 206 66 210 72
+rect 214 66 218 72
+<< pdcontact >>
+rect 174 87 178 100
+rect 182 87 186 100
+rect 190 87 194 100
+rect 198 87 202 100
+rect 206 87 210 100
+rect 214 87 218 100
+<< polysilicon >>
+rect 179 100 181 103
+rect 187 100 189 103
+rect 195 100 197 103
+rect 203 100 205 103
+rect 211 100 213 103
+rect 179 82 181 87
+rect 187 82 189 87
+rect 195 82 197 87
+rect 203 82 205 87
+rect 211 82 213 87
+rect 179 80 213 82
+rect 179 72 181 80
+rect 187 72 189 80
+rect 195 72 197 80
+rect 203 72 205 80
+rect 211 72 213 80
+rect 179 63 181 66
+rect 187 63 189 66
+rect 195 63 197 66
+rect 203 63 205 66
+rect 211 63 213 66
+<< polycontact >>
+rect 175 79 179 83
+<< metal1 >>
+rect 1 103 6 111
+rect 171 103 224 111
+rect 174 100 178 103
+rect 190 100 194 103
+rect 206 100 210 103
+rect 0 81 2 85
+rect 182 84 186 87
+rect 198 84 202 87
+rect 214 84 218 87
+rect 174 79 175 83
+rect 182 80 222 84
+rect 182 72 186 80
+rect 198 72 202 80
+rect 214 72 218 80
+rect 174 61 178 66
+rect 190 61 194 66
+rect 206 61 210 66
+rect 2 53 7 61
+rect 174 60 224 61
+rect 176 53 224 60
+rect 0 29 2 33
+rect 174 1 224 9
+use FF2  FF2_0
+timestamp 1480552085
+transform 1 0 36 0 1 84
+box -36 -84 140 28
+<< labels >>
+rlabel metal1 219 82 219 82 7 Q
+rlabel metal1 1 83 1 83 3 D
+rlabel metal1 3 107 3 107 4 Vdd
+rlabel metal1 1 31 1 31 3 clk
+rlabel metal1 174 80 174 80 1 Qt
+rlabel metal1 7 56 7 56 1 Gnd
+<< end >>
